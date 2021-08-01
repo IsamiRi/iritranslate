@@ -10,5 +10,7 @@
 
 [main page kazach](https://github.com/IsamiRi/iritranslate/blob/main/main%20page/kazach.json)
 
+разделы ирикита и ирикита нео
+
 ## Напоминалка для себя
 Не забудь сделать purge обновленных файлов jsdelivr
