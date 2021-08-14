@@ -2,6 +2,6 @@
   "header": "CSS library for fast website creation",
   "description": "I often had a need to quickly create pages that look the same and will be fast and easy in creation so I created a library for this",
   "tryBtn": "Get started",
-  "whatIsCssLibHeader": "What is css library?",
+  "whatIsCssLibHeader": "How it works?",
   "whatIsCssLibDesc": "You are given a css file that can be connected to your HTML in one line\nThis file contains classes that you can use in your elements:"
 }
