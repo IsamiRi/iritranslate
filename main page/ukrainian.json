@@ -1,4 +1,8 @@
 {
+  "imisamialt": "Сәлем, мен Исами",
+  "imisami": "https://cdn.discordapp.com/attachments/790239193673891871/903700991516508180/Group_22.svg",
+  "scrolldownalt": "төмен айналдырыңыз",
+  "scrolldown": "https://cdn.discordapp.com/attachments/790239193673891871/903702182849835098/a2803ec47463cb21.svg",
   "projects": "Мої проєкти",
   "contacts": "Контакти",
   "vkImgAlt": "ВКонтакте",
@@ -7,6 +11,6 @@
   "names": "Мій список псевдонімів",
   "logo": "Скачати логотипи",
   "copyright": "Копиригхт Рисаси-Сан 2021",
-  "headersFontClass": "rbm",
+  "headersFontClass": "ts",
   "contribute": "Я ❤️ різні мови|Допоможіть мені перевести сайт на ваш язик|тут"
 }
